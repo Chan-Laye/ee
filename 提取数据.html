@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+	</body>
+	<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+	<!--<script src="ajax传参封装.js" type="text/javascript" charset="utf-8"></script>-->
+	<script type="text/javascript">
+//		ajax("get","http://www.gogbuy.com/floor/floorTabs?fid=173&louNum=7&num=7","",true,function(res){
+//			console.log(res)
+//		})
+		$.ajax({
+			type:"post",
+			url:"http://www.sasa.com/brand-ajax_topfive_list.html",
+			data:{},
+			dataType:"json",
+			success:function(res){
+//				res--返回的数据
+				console.log(res)
+			}
+		});
+		
+	</script>
+</html>

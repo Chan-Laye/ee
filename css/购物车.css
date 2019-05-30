@@ -1,0 +1,526 @@
+
+#tou{
+	width: 1545px;
+	height: 30px;
+	position: relative;
+}
+.zhuce{
+	width: 1200px;
+	height: 30px;
+	margin: auto;
+	position: absolute;
+	left: 172.5px;
+	bottom: 0;
+}
+.tou_left{
+	float: left;
+}
+.tou_right{
+	float: right;
+}
+.lu{
+	color: #ec3e7d;
+	cursor: pointer;
+}
+.dengluu{
+	color: #ec3e7d;
+	cursor: pointer;
+}
+.tou_left span{
+	font-size: 12px;
+	position: relative;
+}
+.jiantou{
+	display: inline-block;
+	border-top: 10px solid #8f7da1;
+	border-bottom: 10px solid transparent;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	/*position: absolute;
+	top: 5px;*/
+}
+.list_zhanghu{
+	width: 60;
+	height: 100px;
+	/*background: #0000FF;*/
+	position: absolute;
+	top: 23px;
+	left: 650px;
+	font-size: 12px;
+	color: #6c6c6c;
+	z-index: 1;
+	background: white;
+	border: 1px solid #e6e6e6;
+	display: none;
+}
+.alt_none{
+	width: 200px;
+	height: 40px;
+	position: absolute;
+	top: 23px;
+	left: 620px;
+	border: 1px solid #e6e6e6;
+	display: none;
+}
+.alt_none p{
+	font-size: 12px;
+	color: #6c6c6c;
+	z-index: 1;
+	background: white;	
+}
+.tou_right span{
+	font-size: 12px;
+	color: #6c6c6c;
+	margin-right: 10px;
+}
+#sasa{
+	width: 100%;
+	height: 100px;
+	background: white;
+	position: relative;
+}
+.logo{
+	width: 180px;
+	height: 45px;
+	position: absolute;
+	left: 170px;
+	top: 15px;
+}
+.logo img{
+	width: 180px;
+	height: 45px;
+}
+.shop_log{
+	width: 474px;
+	height: 67px;
+	background-image: url(../购物车/cartstep.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	position: absolute;
+	left: 530px;
+	top: 15px;
+}
+.three_log{
+	width: 185px;
+	height: 55px;
+	position: absolute;
+	left: 1100px;
+	top: 15px;
+}
+.three_log img{
+	width: 50px;
+	height: 50px;
+	margin-left: 5px;
+}
+#mai_alt{
+	width: 990px;
+	height: 30px;
+	background: #ffab2e;
+	margin-left: 300px;
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	font-size: 15px;
+}
+#car_shopp{
+	width: 590px;
+	height: 40px;
+	margin-left: 300px;
+	margin-top: 18px;	
+}
+.mycar_shopp{
+	display: inline-block;
+	width: 290px;
+	height: 40px;
+	font-size: 30px;
+	text-align: center;
+	line-height: 40px;
+	color: black;
+}
+.your_shopping_car{
+	display: inline-block;
+	width: 290px;
+	height: 40px;
+	font-size: 30px;
+	text-align: center;
+	line-height: 40px;
+	color: #ed6295;
+}
+#youhui{
+	width: 540px;
+	height: 16px;
+	color: #666666;
+	font-size: 13px;
+	text-align: right;
+	margin-left: 740px;
+	margin-top: 30px;
+}
+#buy_mycar{
+	width: 990px;
+	height: 180px;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+.buy_head{
+	width: 990px;
+	height: 40px;
+	border-left: 2px solid #ec3e7d;
+	background: white;
+	position: relative;
+}
+.buy_head_left{
+	width: 140px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #a2a2bc;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.shop_name{
+	width: 65px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #a2a2bc;
+	position: absolute;
+	left: 210px;
+	top: 0;
+}
+.one_money{
+	width: 65px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #a2a2bc;
+	position: absolute;
+	left: 620px;
+	top: 0;
+}
+.numb{
+	width: 65px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #a2a2bc;
+	position: absolute;
+	left: 710px;
+	top: 0;
+}
+.small_sum{
+	width: 65px;
+	height: 40px;
+	color: #a2a2bc;
+	text-align: center;
+	line-height: 40px;
+	position: absolute;
+	left: 795px;
+	top: 0;
+}
+.shangpin{
+	width: 990px;
+	height: 140px;
+	background: white;
+	margin-top: 2px;
+	position: relative;
+}
+.check{
+	position: absolute;
+	left: 12px;
+	top: 30px;
+}
+.shangpin_img{
+	width: 140px;
+	height: 140px;
+	position: absolute;
+	left: 25px;
+	top: 0;
+}
+.shangpin_img img{
+	width: 140px;
+	height: 140px;
+}
+.tao{
+	width: 206px;
+	height: 50px;
+	text-align: center;
+	line-height: 40px;
+	color: #a2a2bc;
+	position: absolute;
+	left: 210px;
+	top: 30px;
+}
+.taoyi{
+	font-size: 16px;
+	color: #7a7a66;
+	text-align: left;
+}
+.taoer{
+	font-size: 16px;
+	color: #b2b2b2;
+	text-align: left;
+}
+.onejian_money{
+	width: 60px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	color: #7a7a66;
+	position: absolute;
+	left: 623px;
+	top: 42px;
+}
+.tiao_num{
+	width: 80px;
+	height: 20px;
+	position: absolute;
+	left: 700px;
+	top: 42px;
+}
+.tiao_num span{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: #f4f6f5;
+	line-height: 20px;
+	text-align: center;
+}
+#tiao_num_small{
+	display: inline-block;
+	width: 26px;
+	height: 20px;
+	color: #2f0000;
+	background: white;
+	border: 1px solid #f4f6f5;
+}
+.small_sum_money{
+	width: 70px;
+	height: 40px;
+	position: absolute;
+	right: 115px;
+	top: 42px;
+	font-size: 14px;
+}
+.small_sum_money_num{
+	color: #ec3e7d;
+}
+.baoshui{
+	color: #b2b2b2;
+}
+.buut{
+	width: 30px;
+	height: 15px;
+}
+#btn{
+	width: 35px;
+	height: 16px;
+	text-align: center;
+	line-height: 15px;
+	color: #b2b2b2;
+	position: absolute;
+	top: 40px;
+	right: 30px;
+	cursor: pointer;
+}
+#maidan{
+	width: 990px;
+	height: 40px;
+	margin-top: 20px;
+	background: white;
+	position: relative;
+}
+.goon_buy{
+	width: 65px;
+	height: 16px;
+	text-align: center;
+	line-height: 16px;
+	color: #565d67;
+	position: absolute;
+	left: 26px;
+	top: 13px;
+	cursor: pointer;
+}
+.clean_car{
+	width: 80px;
+	height: 16px;
+	text-align: center;
+	line-height: 16px;
+	color: #565d67;
+	position: absolute;
+	left: 100px;
+	top: 13px;
+	cursor: pointer;
+}
+.n_sum{
+	width: 85px;
+	height: 16px;
+	color: #565d67;
+	position: absolute;
+	left: 575px;
+	top: 13px;
+}
+#n_sum_n{
+	width: 85px;
+	height: 16px;
+	color: #ec3e7d;
+}
+.big_sum{
+	width: 145px;
+	height: 16px;
+	color: #565d67;
+	position: absolute;
+	left: 690px;
+	top: 13px;
+}
+.fen{
+	color: #ec3e7d;
+}
+.jiezhang{
+	width: 130px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	background:  #ec3e7d;
+	color: white;;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+/*结尾*/
+#jiewei{
+	width: 100%;
+	/*margin-top: 80px;*/
+}
+#footer{
+	width: 100%;
+	height: 300px;
+	background: white;
+	margin-top: 2px;
+	position: relative;
+}
+.footer_wrap{
+	width: 1200px;
+	height: 150px;
+	margin: 0 auto;
+	position: absolute;
+	left: 60px;
+	top: 20px;
+}
+.footer_wrap ul{
+	float: left;
+	margin-left: 120px;
+}
+li{
+	font-size: 12px;
+	color: #999999;
+	cursor: pointer;
+}
+.changjian{
+	font-size: 14px;
+	color: #222222;
+}
+.weibo{
+	width: 110px;
+	height: 160px;
+	position: absolute;
+	right: 385px;
+	top: 20px;
+}
+.weibo img{
+	width: 110px;
+	height: 110px;	
+}
+.weibo p{
+	font-size: 14px;
+	color: #111111;
+	text-align: center;
+}
+.erweima{
+	width: 110px;
+	height: 160px;
+	position: absolute;
+	right: 235px;
+	top: 20px;
+}
+.erweima img{
+	width: 110px;
+	height: 110px;	
+}
+.erweima p{
+	font-size: 14px;
+	color: #111111;
+	text-align: center;
+}
+.express_fenlei{
+	width: 190px;
+	height: 33px;
+	float: left;
+	margin-left: 35px;
+}
+.plan{
+	width: 35px;
+	height: 33px;
+	background-image: url(../莎莎网图片/推荐下小图标.png);
+	background-position: left top;
+	/*background-repeat: no-repeat;*/
+	/*border: 1px solid #00BFFF;*/
+	float: left;
+	margin-top: 3px;
+	cursor: pointer;
+}
+.zheng{
+	width: 35px;
+	height: 33px;
+	background-image: url(../莎莎网图片/推荐下小图标.png);
+	background-position: -55px center;
+	/*background-repeat: no-repeat;*/
+	/*border: 1px solid #00BFFF;*/
+	float: left;
+	margin-top: 3px;
+	cursor: pointer;
+}
+.zhi{
+	width: 45px;
+	height: 33px;
+	background-image: url(../莎莎网图片/推荐下小图标.png);
+	background-position: center center;
+	/*background-repeat: no-repeat;*/
+	/*border: 1px solid #00BFFF;*/
+	float: left;
+	margin-top: 3px;
+	cursor: pointer;
+}
+.tui{
+	width: 35px;
+	height: 33px;
+	background-image: url(../莎莎网图片/推荐下小图标.png);
+	background-position: -180px top;
+	/*background-repeat: no-repeat;*/
+	/*border: 1px solid #00BFFF;*/
+	float: left;
+	margin-top: 3px;
+	cursor: pointer;
+}
+.HKtop{
+	width: 35px;
+	height: 33px;
+	background-image: url(../莎莎网图片/推荐下小图标.png);
+	background-position: -232px top;
+	/*background-repeat: no-repeat;*/
+	/*border: 1px solid #00BFFF;*/
+	float: left;
+	margin-top: 3px;
+	cursor: pointer;
+}
+.express_p{
+	float: left;
+}
+.express_p p{
+	font-size: 16px;
+}
+.express_p span{
+	font-size: 12px;
+	color: #6c6c6c;
+}

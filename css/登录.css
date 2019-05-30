@@ -1,0 +1,247 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#tou{
+	width: 1545px;
+	height: 30px;
+	position: relative;
+}
+.zhuce{
+	width: 1200px;
+	height: 30px;
+	margin: auto;
+	position: absolute;
+	left: 172.5px;
+	bottom: 0;
+}
+.tou_left{
+	float: left;
+}
+.tou_right{
+	float: right;
+}
+.lu{
+	color: #ec3e7d;
+	cursor: pointer;
+}
+.dengluu{
+	color: #ec3e7d;
+	cursor: pointer;
+}
+.tou_left span{
+	font-size: 12px;
+	position: relative;
+}
+.jiantou{
+	display: inline-block;
+	border-top: 10px solid #8f7da1;
+	border-bottom: 10px solid transparent;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	/*position: absolute;
+	top: 5px;*/
+}
+.list_zhanghu{
+	width: 60;
+	height: 100px;
+	/*background: #0000FF;*/
+	position: absolute;
+	top: 23px;
+	left: 650px;
+	font-size: 12px;
+	color: #6c6c6c;
+	z-index: 1;
+	background: white;
+	border: 1px solid #e6e6e6;
+	display: none;
+}
+.alt_none{
+	width: 200px;
+	height: 40px;
+	position: absolute;
+	top: 23px;
+	left: 620px;
+	border: 1px solid #e6e6e6;
+	display: none;
+}
+.alt_none p{
+	font-size: 12px;
+	color: #6c6c6c;
+	z-index: 1;
+	background: white;	
+}
+.tou_right span{
+	font-size: 12px;
+	color: #6c6c6c;
+	margin-right: 10px;
+}
+.sasa{
+	width: 190px;
+	height: 55px;
+	margin-left: 240px;
+}
+.sasa_img{
+	width: 190px;
+	height: 55px;
+}
+.picture{
+	width: 600px;
+	height: 420px;
+	position: absolute;
+	left: 240px;
+	top: 230px;
+}
+.picture img{
+	width: 600px;
+	height: 420px;
+}
+.enroll{
+	width: 420px;
+	height: 540px;
+	box-shadow: 0  0  3px #eeeeee;
+	position: absolute;
+	left: 840px;
+	top: 170px;
+}
+.enroll_person{
+	width: 420px;
+	height: 540px;
+	position: relative;
+}
+.username{
+	width: 85px;
+	height: 25px;
+	position: absolute;
+	left: 35px;
+	top: 35px;
+	color: #5a5d6c;
+	font-size: 20px;
+	text-align: center;
+	line-height: 25px;
+}
+.if_no_enroll{
+	width: 150px;
+	height: 15px;
+	position: absolute;
+	top: 42px;
+	left:235px ;
+	font-size: 12px;
+	text-align: center;
+	line-height: 15px;
+	color: #5A5D6C;
+}
+.register{
+	color: #ec3e7d;
+	cursor: pointer;
+}
+.phone{
+	width: 350px;
+	height: 35px;
+	position: absolute;
+	left: 36px;
+	top: 95px;
+}
+.password{
+	width: 350px;
+	height: 35px;
+	position: absolute;
+	left: 36px;
+	top: 160px;
+}
+.yanzheng{
+	width: 126px;
+	height: 35px;
+	position: absolute;
+	left: 36px;
+	top: 220px;
+}
+.array_num{
+	width: 80px;
+	height: 35px;
+	border: 1px solid #CCCCCC;
+	position: absolute;
+	left: 170px;
+	top: 220px;
+}
+.no_enroll{
+	width: 160px;
+	height: 18px;
+	position: absolute;
+	left: 36px;
+	top: 290px;
+	font-size: 13px;
+}
+.forget{
+	color: #ec3e7d;
+}
+.enroll_deng{
+	width: 350px;
+	height: 40px;
+	background: #ec3e7d ;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	position: absolute;
+	left: 36px;
+	top: 336px;
+	cursor: pointer;
+}
+.thired{
+	width: 100px;
+	height: 16px;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	position: absolute;
+	left: 36px;
+	top: 435px;
+}
+.qq{
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	position: absolute;
+	left: 0px;
+	top: 460px;
+}
+.qq_denglu{
+	position: absolute;
+	left: 63px;
+	top: 463px;
+	font-size: 14px;
+}
+/*.qq img{
+	position: absolute;
+	top: -2px;
+	left: 64px;
+}*/
+.wBo_img{
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	position: absolute;
+	left: 115px;
+	top: 460px;
+}
+.wBo{
+	position: absolute;
+	left: 182px;
+	top: 464px;
+	font-size: 14px;
+}
+.pay_img{
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	position: absolute;
+	left: 225px;
+	top: 458px;
+}
+.pay{
+	position: absolute;
+	left: 294px;
+	top: 464px;
+	font-size: 14px;
+}

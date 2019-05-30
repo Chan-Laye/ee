@@ -1,0 +1,14 @@
+{
+	"data":[
+		        {"pid":"1001","pname":"11","price":"88","imgsrc":"详情页图片/精选1.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1002","pname":"22","price":"99","imgsrc":"详情页图片/精选2.jpg","sma2":"详情页图片/erxianshi1.jpg","sma3":"详情页图片/erxianshi2.jpg"},
+		        {"pid":"1003","pname":"33","price":"100","imgsrc":"详情页图片/精选3.jpg","sma2":"详情页图片/sanxianshi1.jpg","sma3":"详情页图片/sanxianshi2.jpg"},
+		        {"pid":"1004","pname":"11","price":"88","imgsrc":"详情页图片/精选1.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1005","pname":"22","price":"99","imgsrc":"详情页图片/精选2.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1006","pname":"33","price":"100","imgsrc":"详情页图片/精选3.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1007","pname":"11","price":"88","imgsrc":"详情页图片/精选1.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1008","pname":"22","price":"99","imgsrc":"详情页图片/精选2.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1009","pname":"33","price":"100","imgsrc":"详情页图片/精选3.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"},
+		        {"pid":"1010","pname":"33","price":"100","imgsrc":"详情页图片/精选1.jpg","sma2":"详情页图片/xianshi1.jpg","sma3":"详情页图片/xianshi2.jpg"}
+	        ]
+}
